@@ -54,3 +54,6 @@ setup(
         )
     ],
 )
+
+
+print("test 1")
